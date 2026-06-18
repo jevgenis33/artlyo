@@ -20,11 +20,11 @@ export const artists: Artist[] = [
     id: "2",
     slug: "janis-ozolins",
     name: "Jānis Ozoliņš",
-    location: "Liepāja",
+    location: "Daugavpils",
     country: "Latvia",
     bio: "Sculptor working with reclaimed wood and bronze. His pieces bridge folk craft traditions with minimalist contemporary forms.",
     avatarUrl:
-      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop",
+      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&h=200&fit=crop",
     bannerUrl:
       "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=1200&h=400&fit=crop",
     website: "https://example.com",
