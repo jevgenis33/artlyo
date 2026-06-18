@@ -1,0 +1,152 @@
+{
+  "meta": {
+    "title": "Artlyo — Mākslas tirgus no Latvijas",
+    "description": "Atklājiet un kolekcionējiet oriģinālus mākslas darbus no Baltijas un Eiropas radītājiem. Radīts Latvijā, atvērts pasaulei."
+  },
+  "nav": {
+    "explore": "Izpētīt",
+    "auctions": "Izsoles",
+    "sell": "Pārdot",
+    "about": "Par mums",
+    "signIn": "Pierakstīties",
+    "getStarted": "Sākt"
+  },
+  "hero": {
+    "badge": "Radīts Latvijā · Cenas EUR",
+    "title": "Kur mākslinieki satiek kolekcionārus",
+    "subtitle": "Artlyo ir kurēts tirgus gleznotājiem, skulptoriem, fotogrāfiem un digitālajiem radītājiem. Atklājiet oriģinālus darbus un sazinieties ar māksliniekiem.",
+    "exploreCta": "Izpētīt darbus",
+    "sellCta": "Sākt pārdot"
+  },
+  "home": {
+    "featuredTitle": "Izceltie darbi",
+    "featuredSubtitle": "Rūpīgi atlasīti darbi no mūsu dibinātāju māksliniekiem",
+    "viewAll": "Skatīt visus",
+    "artistsTitle": "Iepazīstiet māksliniekus",
+    "artistsSubtitle": "Radītāji no Latvijas un visas Eiropas",
+    "howTitle": "Kā darbojas Artlyo",
+    "howSubtitle": "Vienkārši, caurskatāmi, mākslinieku interesēs",
+    "step1Title": "Atklājiet",
+    "step1Desc": "Pārlūkojiet oriģinālus darbus pēc kategorijas, stila un cenas. Visas cenas EUR.",
+    "step2Title": "Jautājiet",
+    "step2Desc": "Nosūtiet pirkuma pieprasījumu tieši māksliniekam. Bez slēptām maksām.",
+    "step3Title": "Kolekcionējiet",
+    "step3Desc": "Saskaņojiet maksājumu un piegādi ar mākslinieku. Drošā apmaksa drīzumā.",
+    "ctaTitle": "Pievienojieties kā dibinātāja mākslinieks",
+    "ctaSubtitle": "Aicinām pirmos 50 radītājus publicēt bez maksas. Esiet daļa no Artlyo no pirmās dienas.",
+    "ctaButton": "Pieteikties pārdošanai"
+  },
+  "explore": {
+    "title": "Izpētīt darbus",
+    "subtitle": "{count} darbi pieejami",
+    "searchPlaceholder": "Meklēt pēc nosaukuma…",
+    "allCategories": "Visas kategorijas",
+    "noResults": "Neviens darbs neatbilst filtriem.",
+    "clearFilters": "Notīrīt filtrus"
+  },
+  "categories": {
+    "painting": "Glezniecība",
+    "sculpture": "Skulptūra",
+    "digital": "Digitālā māksla",
+    "photography": "Fotogrāfija",
+    "mixed-media": "Jauktā tehnika"
+  },
+  "artwork": {
+    "by": "autors",
+    "medium": "Tehnika",
+    "dimensions": "Izmēri",
+    "year": "Gads",
+    "category": "Kategorija",
+    "status": "Statuss",
+    "available": "Pieejams",
+    "sold": "Pārdots",
+    "reserved": "Rezervēts",
+    "inquire": "Nosūtīt pieprasījumu",
+    "viewArtist": "Skatīt profilu",
+    "relatedTitle": "Vairāk no šī autora"
+  },
+  "inquiry": {
+    "title": "Pirkuma pieprasījums",
+    "subtitle": "Jūsu ziņojums nonāk tieši pie mākslinieka. Atbilde 2–3 darba dienu laikā.",
+    "name": "Jūsu vārds",
+    "email": "E-pasts",
+    "message": "Ziņojums",
+    "messagePlaceholder": "Man interesē šis darbs. Vai varat pastāstīt par piegādi uz…",
+    "submit": "Nosūtīt",
+    "sending": "Nosūta…",
+    "successTitle": "Pieprasījums nosūtīts!",
+    "successDesc": "Paldies. Mākslinieks sazināsies ar jums norādītajā e-pastā.",
+    "backToArtwork": "Atpakaļ pie darba",
+    "error": "Kaut kas nogāja greizi. Lūdzu, mēģiniet vēlreiz."
+  },
+  "artist": {
+    "works": "Darbi",
+    "worksCount": "{count} darbi",
+    "verified": "Verificēts mākslinieks",
+    "location": "Bāzēts"
+  },
+  "auctions": {
+    "title": "Aktīvās izsoles",
+    "subtitle": "Soliet ekskluzīvus darbus — pilna izsoļu sistēma drīzumā",
+    "demoBadge": "Priekšskatījums",
+    "currentBid": "Pašreizējais solījums",
+    "bids": "{count} solījumi",
+    "endsIn": "Beidzas pēc",
+    "reserveMet": "Rezerve sasniegta",
+    "reserveNotMet": "Rezerve nav sasniegta",
+    "placeBid": "Solīt",
+    "comingSoon": "Tiešraides solīšana 2. fāzē. Pievienojieties, nosūtot pieprasījumu par jebkuru darbu.",
+    "days": "d",
+    "hours": "h",
+    "minutes": "m"
+  },
+  "sell": {
+    "title": "Pārdodiet savu mākslu Artlyo",
+    "subtitle": "Sasniedziet kolekcionārus visā Eiropā. Publicējiet darbus dažu minūšu laikā.",
+    "benefit1Title": "Mākslinieku interesēs",
+    "benefit1Desc": "Jūsu profils, jūsu stāsts. 10% komisija tikai pārdošanas brīdī.",
+    "benefit2Title": "Radīts Latvijā",
+    "benefit2Desc": "Veidots Baltijas radītājiem, atvērts māksliniekiem visā pasaulē.",
+    "benefit3Title": "Vienkārši rīki",
+    "benefit3Desc": "Augšupielādējiet darbus, norādiet cenas EUR, saņemiet pieprasījumus.",
+    "benefit4Title": "Augoša platforma",
+    "benefit4Desc": "Izsoles, analītika un Stripe apmaksa plānotajā ceļkartē.",
+    "formTitle": "Pieteikties kā dibinātāja mākslinieks",
+    "name": "Vārds, uzvārds",
+    "email": "E-pasts",
+    "portfolio": "Portfolio vai Instagram URL",
+    "about": "Pastāstiet par savu darbu",
+    "submit": "Iesniegt pieteikumu",
+    "successTitle": "Pieteikums saņemts!",
+    "successDesc": "Izskatīsim pieteikumu 5 darba dienu laikā."
+  },
+  "about": {
+    "title": "Par Artlyo",
+    "missionTitle": "Mūsu misija",
+    "missionDesc": "Artlyo palīdz neatkarīgiem māksliniekiem sasniegt globālu auditoriju. Radīts Rīgā, Latvijā — Baltijas mākslai ir pelnīta sava mājvieta.",
+    "visionTitle": "Vīzija",
+    "visionDesc": "Veidojam vairāk nekā veikalu: izsoles, analītika, daudzvalodu atbalsts un paplašināšanās jaunās nišās.",
+    "latviaTitle": "Sakņojas Latvijā",
+    "latviaDesc": "Latvijai ir bagāta vizuālās mākslas tradīcija. Artlyo sākas šeit ar EUR cenām un atbalstu 5 valodās.",
+    "roadmapTitle": "Ceļkarte",
+    "roadmap1": "MVP — pārlūkošana, profili, pieprasījumi",
+    "roadmap2": "Stripe apmaksa un pārdevēja panelis",
+    "roadmap3": "Tiešraides izsoles ar autosolīšanu",
+    "roadmap4": "Mobilā lietotne un jaunas nišas",
+    "contactTitle": "Sazinieties",
+    "contactDesc": "Partnerības, prese, investori: hello@artlyo.com"
+  },
+  "footer": {
+    "tagline": "Mākslas tirgus, radīts Latvijā.",
+    "explore": "Izpētīt",
+    "artists": "Mākslinieki",
+    "sell": "Pārdot",
+    "about": "Par mums",
+    "rights": "Visas tiesības aizsargātas.",
+    "mvpNote": "MVP priekšskatījums — dažas funkcijas ir demonstrācijai."
+  },
+  "common": {
+    "learnMore": "Uzzināt vairāk",
+    "from": "no"
+  }
+}

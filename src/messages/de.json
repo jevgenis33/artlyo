@@ -1,0 +1,152 @@
+{
+  "meta": {
+    "title": "Artlyo — Kunstmarktplatz aus Lettland",
+    "description": "Entdecken und sammeln Sie Originalkunst von baltischen und europäischen Kreativen. Geboren in Lettland, offen für die Welt."
+  },
+  "nav": {
+    "explore": "Entdecken",
+    "auctions": "Auktionen",
+    "sell": "Verkaufen",
+    "about": "Über uns",
+    "signIn": "Anmelden",
+    "getStarted": "Loslegen"
+  },
+  "hero": {
+    "badge": "Geboren in Lettland · Preise in EUR",
+    "title": "Wo Künstler Sammler treffen",
+    "subtitle": "Artlyo ist ein kuratierter Marktplatz für Maler, Bildhauer, Fotografen und digitale Kreative. Entdecken Sie Originalwerke und verbinden Sie sich mit Künstlern.",
+    "exploreCta": "Kunstwerke entdecken",
+    "sellCta": "Verkaufen starten"
+  },
+  "home": {
+    "featuredTitle": "Ausgewählte Werke",
+    "featuredSubtitle": "Handverlesene Stücke unserer Gründungskünstler",
+    "viewAll": "Alle ansehen",
+    "artistsTitle": "Künstler kennenlernen",
+    "artistsSubtitle": "Kreative aus Lettland und ganz Europa",
+    "howTitle": "So funktioniert Artlyo",
+    "howSubtitle": "Einfach, transparent, künstlerorientiert",
+    "step1Title": "Entdecken",
+    "step1Desc": "Durchstöbern Sie Originalwerke nach Kategorie, Stil und Preis. Alle Preise in EUR.",
+    "step2Title": "Anfragen",
+    "step2Desc": "Senden Sie eine Kaufanfrage direkt an den Künstler. Keine versteckten Gebühren.",
+    "step3Title": "Sammeln",
+    "step3Desc": "Vereinbaren Sie Zahlung und Lieferung mit dem Künstler. Sicherer Checkout bald verfügbar.",
+    "ctaTitle": "Als Gründungskünstler beitreten",
+    "ctaSubtitle": "Wir laden die ersten 50 Kreativen kostenlos ein. Seien Sie von Tag eins dabei.",
+    "ctaButton": "Als Verkäufer bewerben"
+  },
+  "explore": {
+    "title": "Kunstwerke entdecken",
+    "subtitle": "{count} Werke verfügbar",
+    "searchPlaceholder": "Nach Titel suchen…",
+    "allCategories": "Alle Kategorien",
+    "noResults": "Keine Werke entsprechen Ihren Filtern.",
+    "clearFilters": "Filter zurücksetzen"
+  },
+  "categories": {
+    "painting": "Malerei",
+    "sculpture": "Skulptur",
+    "digital": "Digitale Kunst",
+    "photography": "Fotografie",
+    "mixed-media": "Mixed Media"
+  },
+  "artwork": {
+    "by": "von",
+    "medium": "Technik",
+    "dimensions": "Maße",
+    "year": "Jahr",
+    "category": "Kategorie",
+    "status": "Status",
+    "available": "Verfügbar",
+    "sold": "Verkauft",
+    "reserved": "Reserviert",
+    "inquire": "Kaufanfrage senden",
+    "viewArtist": "Künstlerprofil ansehen",
+    "relatedTitle": "Mehr von diesem Künstler"
+  },
+  "inquiry": {
+    "title": "Kaufanfrage",
+    "subtitle": "Ihre Nachricht geht direkt an den Künstler. Antwort innerhalb von 2–3 Werktagen.",
+    "name": "Ihr Name",
+    "email": "E-Mail-Adresse",
+    "message": "Nachricht",
+    "messagePlaceholder": "Ich interessiere mich für dieses Werk. Können Sie mir den Versand nach… erläutern?",
+    "submit": "Anfrage senden",
+    "sending": "Wird gesendet…",
+    "successTitle": "Anfrage gesendet!",
+    "successDesc": "Vielen Dank. Der Künstler kontaktiert Sie unter der angegebenen E-Mail.",
+    "backToArtwork": "Zurück zum Kunstwerk",
+    "error": "Etwas ist schiefgelaufen. Bitte erneut versuchen."
+  },
+  "artist": {
+    "works": "Werke",
+    "worksCount": "{count} Werke",
+    "verified": "Verifizierter Künstler",
+    "location": "Basiert in"
+  },
+  "auctions": {
+    "title": "Live-Auktionen",
+    "subtitle": "Bieten Sie auf exklusive Werke — vollständige Auktions-Engine demnächst",
+    "demoBadge": "Vorschau",
+    "currentBid": "Aktuelles Gebot",
+    "bids": "{count} Gebote",
+    "endsIn": "Endet in",
+    "reserveMet": "Mindestpreis erreicht",
+    "reserveNotMet": "Mindestpreis nicht erreicht",
+    "placeBid": "Gebot abgeben",
+    "comingSoon": "Live-Gebote starten in Phase 2. Treten Sie bei, indem Sie eine Anfrage zu einem Werk senden.",
+    "days": "T",
+    "hours": "Std",
+    "minutes": "Min"
+  },
+  "sell": {
+    "title": "Verkaufen Sie auf Artlyo",
+    "subtitle": "Erreichen Sie Sammler in ganz Europa. Listen Sie Ihre Werke in Minuten.",
+    "benefit1Title": "Künstler zuerst",
+    "benefit1Desc": "Ihr Profil, Ihre Geschichte. 10% Provision nur bei Verkauf.",
+    "benefit2Title": "Geboren in Lettland",
+    "benefit2Desc": "Für baltische Kreative, offen für Künstler weltweit.",
+    "benefit3Title": "Einfache Tools",
+    "benefit3Desc": "Werke hochladen, Preise in EUR setzen, Anfragen erhalten.",
+    "benefit4Title": "Wachsende Plattform",
+    "benefit4Desc": "Auktionen, Analytik und Stripe-Checkout auf der Roadmap.",
+    "formTitle": "Als Gründungskünstler bewerben",
+    "name": "Vollständiger Name",
+    "email": "E-Mail",
+    "portfolio": "Portfolio oder Instagram-URL",
+    "about": "Erzählen Sie von Ihrer Arbeit",
+    "submit": "Bewerbung absenden",
+    "successTitle": "Bewerbung erhalten!",
+    "successDesc": "Wir prüfen Ihre Bewerbung innerhalb von 5 Werktagen."
+  },
+  "about": {
+    "title": "Über Artlyo",
+    "missionTitle": "Unsere Mission",
+    "missionDesc": "Artlyo hilft unabhängigen Künstlern, ein globales Publikum zu erreichen. Geboren in Riga — die baltische Kunstszene verdient ein eigenes Zuhause.",
+    "visionTitle": "Die Vision",
+    "visionDesc": "Wir bauen mehr als einen Shop: Auktionen, Künstler-Analytik, Mehrsprachigkeit und neue Vertikalen auf einer Plattform.",
+    "latviaTitle": "Verwurzelt in Lettland",
+    "latviaDesc": "Artlyo startet hier mit EUR-Preisen und Support in 5 Sprachen.",
+    "roadmapTitle": "Roadmap",
+    "roadmap1": "MVP — Durchsuchen, Profile, Kaufanfragen",
+    "roadmap2": "Stripe-Checkout & Verkäufer-Dashboard",
+    "roadmap3": "Live-Auktionen mit Auto-Gebot",
+    "roadmap4": "Mobile App & neue Vertikalen",
+    "contactTitle": "Kontakt",
+    "contactDesc": "Partnerschaften, Presse, Investoren: hello@artlyo.com"
+  },
+  "footer": {
+    "tagline": "Kunstmarktplatz aus Lettland.",
+    "explore": "Entdecken",
+    "artists": "Künstler",
+    "sell": "Verkaufen",
+    "about": "Über uns",
+    "rights": "Alle Rechte vorbehalten.",
+    "mvpNote": "MVP-Vorschau — einige Funktionen sind zur Demonstration simuliert."
+  },
+  "common": {
+    "learnMore": "Mehr erfahren",
+    "from": "ab"
+  }
+}

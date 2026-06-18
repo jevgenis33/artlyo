@@ -1,0 +1,152 @@
+{
+  "meta": {
+    "title": "Artlyo — Art marketplace from Latvia",
+    "description": "Discover and collect original art from Baltic and European creators. Born in Latvia, open to the world."
+  },
+  "nav": {
+    "explore": "Explore",
+    "auctions": "Auctions",
+    "sell": "Sell on Artlyo",
+    "about": "About",
+    "signIn": "Sign in",
+    "getStarted": "Get started"
+  },
+  "hero": {
+    "badge": "Born in Latvia · Prices in EUR",
+    "title": "Where artists meet collectors",
+    "subtitle": "Artlyo is a curated marketplace for painters, sculptors, photographers, and digital creators. Discover original works, connect with artists, and bring art into your space.",
+    "exploreCta": "Explore artworks",
+    "sellCta": "Start selling"
+  },
+  "home": {
+    "featuredTitle": "Featured works",
+    "featuredSubtitle": "Handpicked pieces from our founding artists",
+    "viewAll": "View all",
+    "artistsTitle": "Meet the artists",
+    "artistsSubtitle": "Creators from Latvia and across Europe",
+    "howTitle": "How Artlyo works",
+    "howSubtitle": "Simple, transparent, artist-first",
+    "step1Title": "Discover",
+    "step1Desc": "Browse original artworks by category, style, and price. All listings in EUR.",
+    "step2Title": "Inquire",
+    "step2Desc": "Send a purchase inquiry directly to the artist. No hidden fees on browsing.",
+    "step3Title": "Collect",
+    "step3Desc": "Arrange payment and delivery with the artist. Secure checkout coming soon.",
+    "ctaTitle": "Join as a founding artist",
+    "ctaSubtitle": "We're inviting the first 50 creators to list for free. Be part of Artlyo from day one.",
+    "ctaButton": "Apply to sell"
+  },
+  "explore": {
+    "title": "Explore artworks",
+    "subtitle": "{count} works available",
+    "searchPlaceholder": "Search by title…",
+    "allCategories": "All categories",
+    "noResults": "No artworks match your filters.",
+    "clearFilters": "Clear filters"
+  },
+  "categories": {
+    "painting": "Painting",
+    "sculpture": "Sculpture",
+    "digital": "Digital art",
+    "photography": "Photography",
+    "mixed-media": "Mixed media"
+  },
+  "artwork": {
+    "by": "by",
+    "medium": "Medium",
+    "dimensions": "Dimensions",
+    "year": "Year",
+    "category": "Category",
+    "status": "Status",
+    "available": "Available",
+    "sold": "Sold",
+    "reserved": "Reserved",
+    "inquire": "Send purchase inquiry",
+    "viewArtist": "View artist profile",
+    "relatedTitle": "More from this artist"
+  },
+  "inquiry": {
+    "title": "Purchase inquiry",
+    "subtitle": "Your message goes directly to the artist. They will respond within 2–3 business days.",
+    "name": "Your name",
+    "email": "Email address",
+    "message": "Message",
+    "messagePlaceholder": "I'm interested in this piece. Could you tell me about shipping to…",
+    "submit": "Send inquiry",
+    "sending": "Sending…",
+    "successTitle": "Inquiry sent!",
+    "successDesc": "Thank you. The artist will contact you at the email you provided.",
+    "backToArtwork": "Back to artwork",
+    "error": "Something went wrong. Please try again."
+  },
+  "artist": {
+    "works": "Works",
+    "worksCount": "{count} works",
+    "verified": "Verified artist",
+    "location": "Based in"
+  },
+  "auctions": {
+    "title": "Live auctions",
+    "subtitle": "Bid on exclusive pieces — full auction engine launching soon",
+    "demoBadge": "Preview",
+    "currentBid": "Current bid",
+    "bids": "{count} bids",
+    "endsIn": "Ends in",
+    "reserveMet": "Reserve met",
+    "reserveNotMet": "Reserve not met",
+    "placeBid": "Place bid",
+    "comingSoon": "Live bidding launches in Phase 2. Join our waitlist by sending an inquiry on any artwork.",
+    "days": "d",
+    "hours": "h",
+    "minutes": "m"
+  },
+  "sell": {
+    "title": "Sell your art on Artlyo",
+    "subtitle": "Reach collectors across Europe. List your work in minutes.",
+    "benefit1Title": "Artist-first",
+    "benefit1Desc": "Your profile, your story. We take 10% only when you sell.",
+    "benefit2Title": "Born in Latvia",
+    "benefit2Desc": "Built for Baltic creators, open to artists worldwide.",
+    "benefit3Title": "Simple tools",
+    "benefit3Desc": "Upload works, set prices in EUR, receive inquiries directly.",
+    "benefit4Title": "Growing platform",
+    "benefit4Desc": "Auctions, analytics, and Stripe checkout on the roadmap.",
+    "formTitle": "Apply as founding artist",
+    "name": "Full name",
+    "email": "Email",
+    "portfolio": "Portfolio or Instagram URL",
+    "about": "Tell us about your work",
+    "submit": "Submit application",
+    "successTitle": "Application received!",
+    "successDesc": "We'll review your application and get back within 5 business days."
+  },
+  "about": {
+    "title": "About Artlyo",
+    "missionTitle": "Our mission",
+    "missionDesc": "Artlyo helps independent artists and cultural creators reach a global audience. Born in Riga, Latvia, we believe the Baltic art scene deserves a dedicated home — not buried in generic marketplaces.",
+    "visionTitle": "The vision",
+    "visionDesc": "We're building more than a shop. Artlyo will offer auctions, artist analytics, multi-language support, and expansion into adjacent creative verticals — all on one platform.",
+    "latviaTitle": "Rooted in Latvia",
+    "latviaDesc": "Latvia has a rich tradition of visual art, design, and craft. Artlyo starts here, with EUR pricing and support in English, Latvian, Russian, German, and Norwegian.",
+    "roadmapTitle": "Roadmap",
+    "roadmap1": "MVP launch — browse, profiles, purchase inquiries",
+    "roadmap2": "Stripe checkout & seller dashboard",
+    "roadmap3": "Live auctions with auto-bid",
+    "roadmap4": "Mobile app & new verticals",
+    "contactTitle": "Get in touch",
+    "contactDesc": "Partnerships, press, or investor inquiries: hello@artlyo.com"
+  },
+  "footer": {
+    "tagline": "Art marketplace born in Latvia.",
+    "explore": "Explore",
+    "artists": "Artists",
+    "sell": "Sell",
+    "about": "About",
+    "rights": "All rights reserved.",
+    "mvpNote": "MVP preview — some features are simulated for demonstration."
+  },
+  "common": {
+    "learnMore": "Learn more",
+    "from": "from"
+  }
+}

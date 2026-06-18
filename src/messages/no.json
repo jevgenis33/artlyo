@@ -1,0 +1,152 @@
+{
+  "meta": {
+    "title": "Artlyo — Kunstmarkedsplass fra Latvia",
+    "description": "Oppdag og samle original kunst fra baltiske og europeiske skapere. Født i Latvia, åpen for verden."
+  },
+  "nav": {
+    "explore": "Utforsk",
+    "auctions": "Auksjoner",
+    "sell": "Selg",
+    "about": "Om oss",
+    "signIn": "Logg inn",
+    "getStarted": "Kom i gang"
+  },
+  "hero": {
+    "badge": "Født i Latvia · Priser i EUR",
+    "title": "Der kunstnere møter samlere",
+    "subtitle": "Artlyo er en kuratert markedsplass for malere, skulptører, fotografer og digitale skapere. Oppdag originalverk og ta kontakt med kunstnere.",
+    "exploreCta": "Utforsk kunstverk",
+    "sellCta": "Begynn å selge"
+  },
+  "home": {
+    "featuredTitle": "Utvalgte verk",
+    "featuredSubtitle": "Håndplukkede stykker fra våre grunnleggerkunstnere",
+    "viewAll": "Se alle",
+    "artistsTitle": "Møt kunstnerne",
+    "artistsSubtitle": "Skapere fra Latvia og hele Europa",
+    "howTitle": "Slik fungerer Artlyo",
+    "howSubtitle": "Enkelt, transparent, kunstnerfokusert",
+    "step1Title": "Oppdag",
+    "step1Desc": "Bla gjennom originalverk etter kategori, stil og pris. Alle priser i EUR.",
+    "step2Title": "Forespør",
+    "step2Desc": "Send en kjøpsforespørsel direkte til kunstneren. Ingen skjulte gebyrer.",
+    "step3Title": "Samle",
+    "step3Desc": "Avtal betaling og levering med kunstneren. Sikker kasse kommer snart.",
+    "ctaTitle": "Bli med som grunnleggerkunstner",
+    "ctaSubtitle": "Vi inviterer de første 50 skaperne gratis. Vær med fra dag én.",
+    "ctaButton": "Søk om å selge"
+  },
+  "explore": {
+    "title": "Utforsk kunstverk",
+    "subtitle": "{count} verk tilgjengelig",
+    "searchPlaceholder": "Søk etter tittel…",
+    "allCategories": "Alle kategorier",
+    "noResults": "Ingen verk matcher filtrene dine.",
+    "clearFilters": "Nullstill filtre"
+  },
+  "categories": {
+    "painting": "Maleri",
+    "sculpture": "Skulptur",
+    "digital": "Digital kunst",
+    "photography": "Fotografi",
+    "mixed-media": "Blandet teknikk"
+  },
+  "artwork": {
+    "by": "av",
+    "medium": "Teknikk",
+    "dimensions": "Dimensjoner",
+    "year": "År",
+    "category": "Kategori",
+    "status": "Status",
+    "available": "Tilgjengelig",
+    "sold": "Solgt",
+    "reserved": "Reservert",
+    "inquire": "Send kjøpsforespørsel",
+    "viewArtist": "Se kunstnerprofil",
+    "relatedTitle": "Mer fra denne kunstneren"
+  },
+  "inquiry": {
+    "title": "Kjøpsforespørsel",
+    "subtitle": "Meldingen din går direkte til kunstneren. Svar innen 2–3 virkedager.",
+    "name": "Ditt navn",
+    "email": "E-postadresse",
+    "message": "Melding",
+    "messagePlaceholder": "Jeg er interessert i dette verket. Kan du fortelle om frakt til…",
+    "submit": "Send forespørsel",
+    "sending": "Sender…",
+    "successTitle": "Forespørsel sendt!",
+    "successDesc": "Takk. Kunstneren kontakter deg på oppgitt e-post.",
+    "backToArtwork": "Tilbake til kunstverket",
+    "error": "Noe gikk galt. Prøv igjen."
+  },
+  "artist": {
+    "works": "Verk",
+    "worksCount": "{count} verk",
+    "verified": "Verifisert kunstner",
+    "location": "Basert i"
+  },
+  "auctions": {
+    "title": "Live auksjoner",
+    "subtitle": "By på eksklusive verk — full auksjonsmotor kommer snart",
+    "demoBadge": "Forhåndsvisning",
+    "currentBid": "Gjeldende bud",
+    "bids": "{count} bud",
+    "endsIn": "Slutter om",
+    "reserveMet": "Minstepris nådd",
+    "reserveNotMet": "Minstepris ikke nådd",
+    "placeBid": "Legg inn bud",
+    "comingSoon": "Live budgivning lanseres i fase 2. Bli med ved å sende en forespørsel på et kunstverk.",
+    "days": "d",
+    "hours": "t",
+    "minutes": "m"
+  },
+  "sell": {
+    "title": "Selg kunsten din på Artlyo",
+    "subtitle": "Nå samlere over hele Europa. List verkene dine på minutter.",
+    "benefit1Title": "Kunstner først",
+    "benefit1Desc": "Din profil, din historie. 10% provisjon kun ved salg.",
+    "benefit2Title": "Født i Latvia",
+    "benefit2Desc": "Bygget for baltiske skapere, åpent for kunstnere verden over.",
+    "benefit3Title": "Enkle verktøy",
+    "benefit3Desc": "Last opp verk, sett priser i EUR, motta forespørsler.",
+    "benefit4Title": "Voksende plattform",
+    "benefit4Desc": "Auksjoner, analyse og Stripe-kasse på veikartet.",
+    "formTitle": "Søk som grunnleggerkunstner",
+    "name": "Fullt navn",
+    "email": "E-post",
+    "portfolio": "Portefølje eller Instagram-URL",
+    "about": "Fortell om arbeidet ditt",
+    "submit": "Send søknad",
+    "successTitle": "Søknad mottatt!",
+    "successDesc": "Vi vurderer søknaden innen 5 virkedager."
+  },
+  "about": {
+    "title": "Om Artlyo",
+    "missionTitle": "Vårt oppdrag",
+    "missionDesc": "Artlyo hjelper uavhengige kunstnere å nå et globalt publikum. Født i Riga — baltisk kunst fortjener et eget hjem.",
+    "visionTitle": "Visjonen",
+    "visionDesc": "Vi bygger mer enn en butikk: auksjoner, analyse, flerspråklig støtte og nye vertikaler på én plattform.",
+    "latviaTitle": "Forankret i Latvia",
+    "latviaDesc": "Artlyo starter her med EUR-priser og støtte på 5 språk.",
+    "roadmapTitle": "Veikart",
+    "roadmap1": "MVP — bla, profiler, kjøpsforespørsler",
+    "roadmap2": "Stripe-kasse og selgerdashbord",
+    "roadmap3": "Live auksjoner med autobud",
+    "roadmap4": "Mobilapp og nye vertikaler",
+    "contactTitle": "Kontakt",
+    "contactDesc": "Partnerskap, presse, investorer: hello@artlyo.com"
+  },
+  "footer": {
+    "tagline": "Kunstmarkedsplass født i Latvia.",
+    "explore": "Utforsk",
+    "artists": "Kunstnere",
+    "sell": "Selg",
+    "about": "Om oss",
+    "rights": "Alle rettigheter reservert.",
+    "mvpNote": "MVP-forhåndsvisning — noen funksjoner er simulert for demonstrasjon."
+  },
+  "common": {
+    "learnMore": "Les mer",
+    "from": "fra"
+  }
+}
