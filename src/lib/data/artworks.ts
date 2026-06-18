@@ -65,7 +65,7 @@ export const artworks: Artwork[] = [
     dimensions: "120 × 40 × 35 cm",
     year: 2024,
     imageUrl:
-      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=1000&fit=crop",
+      "https://images.unsplash.com/photo-1565008576549-57569a49371d?w=800&h=1000&fit=crop",
     featured: false,
     status: "available",
   },
@@ -235,7 +235,7 @@ export const artworks: Artwork[] = [
     dimensions: "25 × 15 × 12 cm",
     year: 2025,
     imageUrl:
-      "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=800&h=1000&fit=crop",
+      "https://images.unsplash.com/photo-1610701596007-11502861dcfa?w=800&h=1000&fit=crop",
     featured: false,
     status: "reserved",
   },

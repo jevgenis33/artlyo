@@ -18,16 +18,14 @@ export const artists: Artist[] = [
   },
   {
     id: "2",
-    slug: "janis-ozolins",
-    name: "Jānis Ozoliņš",
+    slug: "sergejs-karpenko",
+    name: "Sergejs Karpenko",
     location: "Daugavpils",
     country: "Latvia",
-    bio: "Sculptor working with reclaimed wood and bronze. His pieces bridge folk craft traditions with minimalist contemporary forms.",
-    avatarUrl:
-      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&h=200&fit=crop",
+    bio: "Sculptor from Daugavpils working with reclaimed wood and bronze. His pieces bridge folk craft traditions with minimalist contemporary forms.",
+    avatarUrl: "/artists/sergejs-karpenko.png",
     bannerUrl:
       "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=1200&h=400&fit=crop",
-    website: "https://example.com",
     verified: true,
     featured: true,
   },
