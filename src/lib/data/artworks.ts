@@ -31,7 +31,7 @@ export const artworks: Artwork[] = [
     dimensions: "60 × 80 cm",
     year: 2024,
     imageUrl:
-      "https://images.unsplash.com/photo-1549887534-1541e9326642?w=800&h=1000&fit=crop",
+      "https://images.unsplash.com/photo-1536924940846-227afb31e2a5?w=800&h=1000&fit=crop",
     featured: true,
     status: "available",
   },
@@ -65,7 +65,7 @@ export const artworks: Artwork[] = [
     dimensions: "120 × 40 × 35 cm",
     year: 2024,
     imageUrl:
-      "https://images.unsplash.com/photo-1515405295578?w=800&h=1000&fit=crop",
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=1000&fit=crop",
     featured: false,
     status: "available",
   },
@@ -133,7 +133,7 @@ export const artworks: Artwork[] = [
     dimensions: "50 × 75 cm",
     year: 2024,
     imageUrl:
-      "https://images.unsplash.com/photo-1514565131-fce0801cca578?w=800&h=1000&fit=crop",
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?w=800&h=1000&fit=crop",
     featured: false,
     status: "sold",
   },
@@ -201,7 +201,7 @@ export const artworks: Artwork[] = [
     dimensions: "80 × 80 cm",
     year: 2024,
     imageUrl:
-      "https://images.unsplash.com/photo-1561214115-f2f702cc40ec?w=800&h=1000&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=1000&fit=crop",
     featured: false,
     status: "available",
   },
@@ -218,7 +218,7 @@ export const artworks: Artwork[] = [
     dimensions: "50 × 70 cm",
     year: 2025,
     imageUrl:
-      "https://images.unsplash.com/photo-1578321272172-b7c25d528210?w=800&h=1000&fit=crop",
+      "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&h=1000&fit=crop",
     featured: false,
     status: "available",
   },

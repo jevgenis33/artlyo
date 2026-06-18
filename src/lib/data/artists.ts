@@ -26,7 +26,7 @@ export const artists: Artist[] = [
     avatarUrl:
       "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop",
     bannerUrl:
-      "https://images.unsplash.com/photo-1515405295578?w=1200&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=1200&h=400&fit=crop",
     website: "https://example.com",
     verified: true,
     featured: true,
