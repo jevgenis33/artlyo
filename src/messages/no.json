@@ -8,6 +8,7 @@
     "auctions": "Auksjoner",
     "sell": "Selg",
     "about": "Om oss",
+    "manifesto": "Manifest",
     "signIn": "Logg inn",
     "getStarted": "Kom i gang"
   },
@@ -136,12 +137,25 @@
     "contactTitle": "Kontakt",
     "contactDesc": "Partnerskap, presse, investorer: hello@artlyo.com"
   },
+  "manifesto": {
+    "title": "Vårt manifest",
+    "p1": "Den største kunstneren er vår Skaper, og menneskekroppen og sjelen er blant de vakreste kunstverkene i den fysiske verden.",
+    "p2": "Hvert menneske fødes med unike gaver, kreativitet og potensial til å bringe noe ekstraordinært til live. Likevel lærer samfunn, forventninger og begrensende overbevisninger oss altfor ofte å undertrykke vår sanne natur i stedet for å uttrykke den.",
+    "p3": "Vi tror at kunst ikke er begrenset til malerier, skulpturer, musikk eller litteratur. Livet selv er et kunstverk. Måten vi tenker, skaper, elsker, vokser og uttrykker oss på, former verden rundt oss.",
+    "p4": "Vårt oppdrag er å inspirere mennesker til å frigjøre seg fra påtvingte fordommer, omfavne sitt autentiske jeg og skape den beste versjonen av livet sitt. Når vi pleier sinn, kropp og sjel, blir vi levende mesterverk.",
+    "p5": "Ved å gjøre oss selv vakrere, gjør vi verden vakrere. Ved å skape modig, inspirerer vi andre til å gjøre det samme. Hver kreativ handling, uansett hvor liten, har kraften til å gjøre menneskeheten rikere, snillere og mer levende.",
+    "p6": "Dette er mer enn en markedsplass. Det er en bevegelse som feirer kreativitet, individualitet og kunstens transformative kraft.",
+    "tagline": "Skap. Inspirer. Forvandle verden.",
+    "exploreCta": "Utforsk kunstverk",
+    "sellCta": "Bli med som kunstner"
+  },
   "footer": {
     "tagline": "Kunstmarkedsplass født i Latvia.",
     "explore": "Utforsk",
     "artists": "Kunstnere",
     "sell": "Selg",
     "about": "Om oss",
+    "manifesto": "Manifest",
     "rights": "Alle rettigheter reservert.",
     "mvpNote": "MVP-forhåndsvisning — noen funksjoner er simulert for demonstrasjon."
   },

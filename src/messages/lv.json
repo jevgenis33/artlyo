@@ -8,6 +8,7 @@
     "auctions": "Izsoles",
     "sell": "Pārdot",
     "about": "Par mums",
+    "manifesto": "Manifests",
     "signIn": "Pierakstīties",
     "getStarted": "Sākt"
   },
@@ -136,12 +137,25 @@
     "contactTitle": "Sazinieties",
     "contactDesc": "Partnerības, prese, investori: hello@artlyo.com"
   },
+  "manifesto": {
+    "title": "Mūsu manifests",
+    "p1": "Lielākais mākslinieks ir mūsu Radītājs, un cilvēka ķermenis un dvēsele ir vieni no skaistākajiem mākslas darbiem fiziskajā pasaulē.",
+    "p2": "Katrs cilvēks piedzimst ar unikāliem talantiem, radošumu un potenciālu radīt kaut ko ārkārtēju. Tomēr bieži sabiedrība, gaidas un ierobežojoši uzskati māca mums apspiest savu patieso dabu, nevis to izpaust.",
+    "p3": "Mēs ticam, ka māksla neaprobežojas ar gleznām, skulptūrām, mūziku vai literatūru. Pati dzīve ir mākslas darbs. Tas, kā mēs domājam, radām, mīlam, augam un izpaužamies, veido pasauli ap mums.",
+    "p4": "Mūsu misija ir iedvesmot cilvēkus atbrīvoties no uzspiestajiem aizspriedumiem, pieņemt savu autentisko būtību un radīt labāko savas dzīves versiju. Kad mēs kopjam prātu, ķermeni un dvēseli, mēs kļūstam par dzīvojošiem šedevriem.",
+    "p5": "Skaistinot sevi, mēs skaistinām pasauli. Droši radot, mēs iedvesmojam citus darīt to pašu. Katrs radošs akts, lai cik mazs, spēj padarīt cilvēci bagātāku, laipnāku un dzīvīgāku.",
+    "p6": "Šis ir vairāk nekā tirgus. Tas ir kustība, kas svin radošumu, individualitāti un mākslas pārveidojošo spēku.",
+    "tagline": "Radi. Iedvesmo. Pārveido pasauli.",
+    "exploreCta": "Izpētīt darbus",
+    "sellCta": "Pievienoties kā mākslinieks"
+  },
   "footer": {
     "tagline": "Mākslas tirgus, radīts Latvijā.",
     "explore": "Izpētīt",
     "artists": "Mākslinieki",
     "sell": "Pārdot",
     "about": "Par mums",
+    "manifesto": "Manifests",
     "rights": "Visas tiesības aizsargātas.",
     "mvpNote": "MVP priekšskatījums — dažas funkcijas ir demonstrācijai."
   },

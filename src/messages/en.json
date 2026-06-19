@@ -8,6 +8,7 @@
     "auctions": "Auctions",
     "sell": "Sell on Artlyo",
     "about": "About",
+    "manifesto": "Manifesto",
     "signIn": "Sign in",
     "getStarted": "Get started"
   },
@@ -136,12 +137,25 @@
     "contactTitle": "Get in touch",
     "contactDesc": "Partnerships, press, or investor inquiries: hello@artlyo.com"
   },
+  "manifesto": {
+    "title": "Our Manifesto",
+    "p1": "The greatest artist is our Creator, and the human body and soul are among the most beautiful works of art in the physical world.",
+    "p2": "Every person is born with unique gifts, creativity, and the potential to bring something extraordinary into existence. Yet too often, society, expectations, and limiting beliefs teach us to suppress our true nature instead of expressing it.",
+    "p3": "We believe that art is not limited to paintings, sculptures, music, or literature. Life itself is a work of art. The way we think, create, love, grow, and express ourselves shapes the world around us.",
+    "p4": "Our mission is to inspire people to free themselves from imposed prejudices, embrace their authentic selves, and create the best version of their lives. When we nurture our minds, bodies, and souls, we become living masterpieces.",
+    "p5": "By beautifying ourselves, we beautify the world. By creating boldly, we inspire others to do the same. Every act of creativity, no matter how small, has the power to make humanity richer, kinder, and more vibrant.",
+    "p6": "This is more than a marketplace. It is a movement that celebrates creativity, individuality, and the transformative power of art.",
+    "tagline": "Create. Inspire. Transform the world.",
+    "exploreCta": "Explore artworks",
+    "sellCta": "Join as an artist"
+  },
   "footer": {
     "tagline": "Art marketplace born in Latvia.",
     "explore": "Explore",
     "artists": "Artists",
     "sell": "Sell",
     "about": "About",
+    "manifesto": "Manifesto",
     "rights": "All rights reserved.",
     "mvpNote": "MVP preview — some features are simulated for demonstration."
   },

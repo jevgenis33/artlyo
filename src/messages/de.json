@@ -8,6 +8,7 @@
     "auctions": "Auktionen",
     "sell": "Verkaufen",
     "about": "Über uns",
+    "manifesto": "Manifest",
     "signIn": "Anmelden",
     "getStarted": "Loslegen"
   },
@@ -136,12 +137,25 @@
     "contactTitle": "Kontakt",
     "contactDesc": "Partnerschaften, Presse, Investoren: hello@artlyo.com"
   },
+  "manifesto": {
+    "title": "Unser Manifest",
+    "p1": "Der größte Künstler ist unser Schöpfer, und der menschliche Körper und die Seele gehören zu den schönsten Kunstwerken der physischen Welt.",
+    "p2": "Jeder Mensch wird mit einzigartigen Gaben, Kreativität und dem Potenzial geboren, etwas Außergewöhnliches zu erschaffen. Doch allzu oft lehren uns Gesellschaft, Erwartungen und begrenzende Überzeugungen, unsere wahre Natur zu unterdrücken, statt sie auszudrücken.",
+    "p3": "Wir glauben, dass Kunst nicht auf Gemälde, Skulpturen, Musik oder Literatur beschränkt ist. Das Leben selbst ist ein Kunstwerk. Wie wir denken, erschaffen, lieben, wachsen und uns ausdrücken, formt die Welt um uns herum.",
+    "p4": "Unsere Mission ist es, Menschen zu inspirieren, sich von aufgezwungenen Vorurteilen zu befreien, ihr authentisches Selbst anzunehmen und die beste Version ihres Lebens zu erschaffen. Wenn wir Geist, Körper und Seele pflegen, werden wir zu lebenden Meisterwerken.",
+    "p5": "Indem wir uns selbst verschönern, verschönern wir die Welt. Indem wir mutig erschaffen, inspirieren wir andere, dasselbe zu tun. Jeder kreative Akt, so klein er auch sein mag, hat die Kraft, die Menschheit reicher, freundlicher und lebendiger zu machen.",
+    "p6": "Dies ist mehr als ein Marktplatz. Es ist eine Bewegung, die Kreativität, Individualität und die transformative Kraft der Kunst feiert.",
+    "tagline": "Erschaffe. Inspiriere. Verwandle die Welt.",
+    "exploreCta": "Kunstwerke entdecken",
+    "sellCta": "Als Künstler beitreten"
+  },
   "footer": {
     "tagline": "Kunstmarktplatz aus Lettland.",
     "explore": "Entdecken",
     "artists": "Künstler",
     "sell": "Verkaufen",
     "about": "Über uns",
+    "manifesto": "Manifest",
     "rights": "Alle Rechte vorbehalten.",
     "mvpNote": "MVP-Vorschau — einige Funktionen sind zur Demonstration simuliert."
   },

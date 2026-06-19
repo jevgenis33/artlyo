@@ -40,6 +40,11 @@ export function Footer() {
                   {t("about")}
                 </Link>
               </li>
+              <li>
+                <Link href="/manifesto" className="hover:text-stone-900">
+                  {t("manifesto")}
+                </Link>
+              </li>
             </ul>
           </div>
           <div>
