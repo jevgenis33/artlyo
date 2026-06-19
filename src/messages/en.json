@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Artlyo — Art marketplace from Latvia",
+    "title": "Artlyo - Art marketplace from Latvia",
     "description": "Discover and collect original art from creators around the world. Born in Latvia, open to all."
   },
   "nav": {
@@ -37,7 +37,7 @@
     "ctaSubtitle": "We're inviting the first 50 creators to list for free. Be part of Artlyo from day one.",
     "ctaButton": "Apply to sell",
     "manifestoTitle": "Our Manifesto",
-    "manifestoExcerpt": "Our Creator is the greatest artist, and our body and soul are the finest work of art in the physical world. We need only free ourselves from the prejudices imposed on us by society and begin to bloom and create our best lives — for by beautifying ourselves, we beautify this world.",
+    "manifestoExcerpt": "Our Creator is the greatest artist, and our body and soul are the finest work of art in the physical world. We need only free ourselves from the prejudices imposed on us by society and begin to bloom and create our best lives - for by beautifying ourselves, we beautify this world.",
     "manifestoTagline": "Create. Inspire. Transform the world.",
     "manifestoCta": "Read full manifesto"
   },
@@ -92,7 +92,7 @@
   },
   "auctions": {
     "title": "Live auctions",
-    "subtitle": "Bid on exclusive pieces — full auction engine launching soon",
+    "subtitle": "Bid on exclusive pieces - full auction engine launching soon",
     "demoBadge": "Preview",
     "currentBid": "Current bid",
     "bids": "{count} bids",
@@ -128,13 +128,13 @@
   "about": {
     "title": "About Artlyo",
     "missionTitle": "Our mission",
-    "missionDesc": "Artlyo helps independent artists and cultural creators reach a global audience. Born in Riga, Latvia, we believe every artist deserves a dedicated home — not buried in generic marketplaces.",
+    "missionDesc": "Artlyo helps independent artists and cultural creators reach a global audience. Born in Riga, Latvia, we believe every artist deserves a dedicated home - not buried in generic marketplaces.",
     "visionTitle": "The vision",
-    "visionDesc": "We're building more than a shop. Artlyo will offer auctions, artist analytics, multi-language support, and expansion into adjacent creative verticals — all on one platform.",
+    "visionDesc": "We're building more than a shop. Artlyo will offer auctions, artist analytics, multi-language support, and expansion into adjacent creative verticals - all on one platform.",
     "latviaTitle": "Rooted in Latvia",
     "latviaDesc": "Latvia has a rich tradition of visual art, design, and craft. Artlyo starts here, with EUR pricing and support in English, Latvian, Russian, German, Norwegian, Spanish, and Chinese.",
     "roadmapTitle": "Roadmap",
-    "roadmap1": "MVP launch — browse, profiles, purchase inquiries",
+    "roadmap1": "MVP launch - browse, profiles, purchase inquiries",
     "roadmap2": "Stripe checkout & seller dashboard",
     "roadmap3": "Live auctions with auto-bid",
     "roadmap4": "Mobile app & new verticals",
@@ -161,7 +161,7 @@
     "about": "About",
     "manifesto": "Manifesto",
     "rights": "All rights reserved.",
-    "mvpNote": "MVP preview — some features are simulated for demonstration."
+    "mvpNote": "MVP preview - some features are simulated for demonstration."
   },
   "common": {
     "learnMore": "Learn more",

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Artlyo — Kunstmarktplatz aus Lettland",
+    "title": "Artlyo - Kunstmarktplatz aus Lettland",
     "description": "Entdecken und sammeln Sie Originalkunst von Kreativen aus aller Welt. Geboren in Lettland, offen für alle."
   },
   "nav": {
@@ -37,7 +37,7 @@
     "ctaSubtitle": "Wir laden die ersten 50 Kreativen kostenlos ein. Seien Sie von Tag eins dabei.",
     "ctaButton": "Als Verkäufer bewerben",
     "manifestoTitle": "Unser Manifest",
-    "manifestoExcerpt": "Unser Schöpfer ist der größte Künstler, und unser Körper und unsere Seele sind das feinste Kunstwerk in der physischen Welt. Wir müssen uns nur von den Vorurteilen befreien, die uns die Gesellschaft aufgezwungen hat, und beginnen zu blühen und unser bestes Leben zu erschaffen — denn indem wir uns selbst verschönern, verschönern wir diese Welt.",
+    "manifestoExcerpt": "Unser Schöpfer ist der größte Künstler, und unser Körper und unsere Seele sind das feinste Kunstwerk in der physischen Welt. Wir müssen uns nur von den Vorurteilen befreien, die uns die Gesellschaft aufgezwungen hat, und beginnen zu blühen und unser bestes Leben zu erschaffen - denn indem wir uns selbst verschönern, verschönern wir diese Welt.",
     "manifestoTagline": "Erschaffe. Inspiriere. Verwandle die Welt.",
     "manifestoCta": "Ganzes Manifest lesen"
   },
@@ -92,7 +92,7 @@
   },
   "auctions": {
     "title": "Live-Auktionen",
-    "subtitle": "Bieten Sie auf exklusive Werke — vollständige Auktions-Engine demnächst",
+    "subtitle": "Bieten Sie auf exklusive Werke - vollständige Auktions-Engine demnächst",
     "demoBadge": "Vorschau",
     "currentBid": "Aktuelles Gebot",
     "bids": "{count} Gebote",
@@ -128,13 +128,13 @@
   "about": {
     "title": "Über Artlyo",
     "missionTitle": "Unsere Mission",
-    "missionDesc": "Artlyo hilft unabhängigen Künstlern, ein globales Publikum zu erreichen. Geboren in Riga — jeder Künstler verdient ein eigenes Zuhause.",
+    "missionDesc": "Artlyo hilft unabhängigen Künstlern, ein globales Publikum zu erreichen. Geboren in Riga - jeder Künstler verdient ein eigenes Zuhause.",
     "visionTitle": "Die Vision",
     "visionDesc": "Wir bauen mehr als einen Shop: Auktionen, Künstler-Analytik, Mehrsprachigkeit und neue Vertikalen auf einer Plattform.",
     "latviaTitle": "Verwurzelt in Lettland",
     "latviaDesc": "Artlyo startet hier mit EUR-Preisen und Support in 7 Sprachen.",
     "roadmapTitle": "Roadmap",
-    "roadmap1": "MVP — Durchsuchen, Profile, Kaufanfragen",
+    "roadmap1": "MVP - Durchsuchen, Profile, Kaufanfragen",
     "roadmap2": "Stripe-Checkout & Verkäufer-Dashboard",
     "roadmap3": "Live-Auktionen mit Auto-Gebot",
     "roadmap4": "Mobile App & neue Vertikalen",
@@ -161,7 +161,7 @@
     "about": "Über uns",
     "manifesto": "Manifest",
     "rights": "Alle Rechte vorbehalten.",
-    "mvpNote": "MVP-Vorschau — einige Funktionen sind zur Demonstration simuliert."
+    "mvpNote": "MVP-Vorschau - einige Funktionen sind zur Demonstration simuliert."
   },
   "common": {
     "learnMore": "Mehr erfahren",

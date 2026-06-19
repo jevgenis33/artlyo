@@ -7,7 +7,7 @@ export const artworks: Artwork[] = [
     artistId: "1",
     title: "Amber Dusk",
     description:
-      "A meditation on quiet evenings — layered oils capture the last warmth of sun over the river. Subtle impasto and soft edges evoke stillness.",
+      "A meditation on quiet evenings - layered oils capture the last warmth of sun over the river. Subtle impasto and soft edges evoke stillness.",
     price: 1200,
     category: "painting",
     medium: "Oil on linen",

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Artlyo — Mākslas tirgus no Latvijas",
+    "title": "Artlyo - Mākslas tirgus no Latvijas",
     "description": "Atklājiet un kolekcionējiet oriģinālus mākslas darbus no radītājiem visā pasaulē. Radīts Latvijā, atvērts visiem."
   },
   "nav": {
@@ -37,7 +37,7 @@
     "ctaSubtitle": "Aicinām pirmos 50 radītājus publicēt bez maksas. Esiet daļa no Artlyo no pirmās dienas.",
     "ctaButton": "Pieteikties pārdošanai",
     "manifestoTitle": "Mūsu manifests",
-    "manifestoExcerpt": "Mūsu Radītājs ir lielākais mākslinieks, un mūsu ķermenis un dvēsele ir izcilākais mākslas darbs fiziskajā pasaulē. Mums jāatbrīvojas tikai no sabiedrības uzspiestajiem aizspriedumiem un jāsāk ziedēt un radīt savu labāko dzīvi — jo, skaistinot sevi, mēs skaistinām šo pasauli.",
+    "manifestoExcerpt": "Mūsu Radītājs ir lielākais mākslinieks, un mūsu ķermenis un dvēsele ir izcilākais mākslas darbs fiziskajā pasaulē. Mums jāatbrīvojas tikai no sabiedrības uzspiestajiem aizspriedumiem un jāsāk ziedēt un radīt savu labāko dzīvi - jo, skaistinot sevi, mēs skaistinām šo pasauli.",
     "manifestoTagline": "Radi. Iedvesmo. Pārveido pasauli.",
     "manifestoCta": "Lasīt pilnu manifestu"
   },
@@ -92,7 +92,7 @@
   },
   "auctions": {
     "title": "Aktīvās izsoles",
-    "subtitle": "Soliet ekskluzīvus darbus — pilna izsoļu sistēma drīzumā",
+    "subtitle": "Soliet ekskluzīvus darbus - pilna izsoļu sistēma drīzumā",
     "demoBadge": "Priekšskatījums",
     "currentBid": "Pašreizējais solījums",
     "bids": "{count} solījumi",
@@ -128,13 +128,13 @@
   "about": {
     "title": "Par Artlyo",
     "missionTitle": "Mūsu misija",
-    "missionDesc": "Artlyo palīdz neatkarīgiem māksliniekiem sasniegt globālu auditoriju. Radīts Rīgā, Latvijā — katram māksliniekam ir pelnīta sava mājvieta.",
+    "missionDesc": "Artlyo palīdz neatkarīgiem māksliniekiem sasniegt globālu auditoriju. Radīts Rīgā, Latvijā - katram māksliniekam ir pelnīta sava mājvieta.",
     "visionTitle": "Vīzija",
     "visionDesc": "Veidojam vairāk nekā veikalu: izsoles, analītika, daudzvalodu atbalsts un paplašināšanās jaunās nišās.",
     "latviaTitle": "Sakņojas Latvijā",
     "latviaDesc": "Latvijai ir bagāta vizuālās mākslas tradīcija. Artlyo sākas šeit ar EUR cenām un atbalstu 7 valodās.",
     "roadmapTitle": "Ceļkarte",
-    "roadmap1": "MVP — pārlūkošana, profili, pieprasījumi",
+    "roadmap1": "MVP - pārlūkošana, profili, pieprasījumi",
     "roadmap2": "Stripe apmaksa un pārdevēja panelis",
     "roadmap3": "Tiešraides izsoles ar autosolīšanu",
     "roadmap4": "Mobilā lietotne un jaunas nišas",
@@ -161,7 +161,7 @@
     "about": "Par mums",
     "manifesto": "Manifests",
     "rights": "Visas tiesības aizsargātas.",
-    "mvpNote": "MVP priekšskatījums — dažas funkcijas ir demonstrācijai."
+    "mvpNote": "MVP priekšskatījums - dažas funkcijas ir demonstrācijai."
   },
   "common": {
     "learnMore": "Uzzināt vairāk",

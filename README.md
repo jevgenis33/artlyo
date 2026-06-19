@@ -1,14 +1,14 @@
 # Artlyo
 
-Art marketplace MVP — born in Latvia, built for artists and collectors across Europe.
+Art marketplace MVP - born in Latvia, built for artists and collectors across Europe.
 
 ## Stack
 
 - **Next.js 16** (App Router, TypeScript)
 - **Tailwind CSS 4**
-- **next-intl** — EN, LV, RU, DE, NO
-- **Supabase** (optional) — stores inquiries and seller applications
-- **Vercel** — free hosting with custom domain
+- **next-intl** - EN, LV, RU, DE, NO
+- **Supabase** (optional) - stores inquiries and seller applications
+- **Vercel** - free hosting with custom domain
 
 ## Quick start
 
@@ -27,7 +27,7 @@ Copy `.env.example` to `.env.local` and fill in Supabase keys when ready:
 cp .env.example .env.local
 ```
 
-Without Supabase, inquiry and seller forms still work — submissions are logged server-side.
+Without Supabase, inquiry and seller forms still work - submissions are logged server-side.
 
 ### Supabase setup
 
@@ -66,4 +66,4 @@ Without Supabase, inquiry and seller forms still work — submissions are logged
 
 ## License
 
-Private — Artlyo
+Private - Artlyo

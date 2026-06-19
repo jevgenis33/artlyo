@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Artlyo — Kunstmarkedsplass fra Latvia",
+    "title": "Artlyo - Kunstmarkedsplass fra Latvia",
     "description": "Oppdag og samle original kunst fra skapere over hele verden. Født i Latvia, åpen for alle."
   },
   "nav": {
@@ -37,7 +37,7 @@
     "ctaSubtitle": "Vi inviterer de første 50 skaperne gratis. Vær med fra dag én.",
     "ctaButton": "Søk om å selge",
     "manifestoTitle": "Vårt manifest",
-    "manifestoExcerpt": "Vår Skaper er den største kunstneren, og kroppen og sjelen vår er det fineste kunstverket i den fysiske verden. Vi trenger bare å frigjøre oss fra fordommene samfunnet har påført oss og begynne å blomstre og skape vårt beste liv — for ved å gjøre oss selv vakrere, gjør vi denne verden vakrere.",
+    "manifestoExcerpt": "Vår Skaper er den største kunstneren, og kroppen og sjelen vår er det fineste kunstverket i den fysiske verden. Vi trenger bare å frigjøre oss fra fordommene samfunnet har påført oss og begynne å blomstre og skape vårt beste liv - for ved å gjøre oss selv vakrere, gjør vi denne verden vakrere.",
     "manifestoTagline": "Skap. Inspirer. Forvandle verden.",
     "manifestoCta": "Les hele manifestet"
   },
@@ -92,7 +92,7 @@
   },
   "auctions": {
     "title": "Live auksjoner",
-    "subtitle": "By på eksklusive verk — full auksjonsmotor kommer snart",
+    "subtitle": "By på eksklusive verk - full auksjonsmotor kommer snart",
     "demoBadge": "Forhåndsvisning",
     "currentBid": "Gjeldende bud",
     "bids": "{count} bud",
@@ -128,13 +128,13 @@
   "about": {
     "title": "Om Artlyo",
     "missionTitle": "Vårt oppdrag",
-    "missionDesc": "Artlyo hjelper uavhengige kunstnere å nå et globalt publikum. Født i Riga — hver kunstner fortjener et eget hjem.",
+    "missionDesc": "Artlyo hjelper uavhengige kunstnere å nå et globalt publikum. Født i Riga - hver kunstner fortjener et eget hjem.",
     "visionTitle": "Visjonen",
     "visionDesc": "Vi bygger mer enn en butikk: auksjoner, analyse, flerspråklig støtte og nye vertikaler på én plattform.",
     "latviaTitle": "Forankret i Latvia",
     "latviaDesc": "Artlyo starter her med EUR-priser og støtte på 7 språk.",
     "roadmapTitle": "Veikart",
-    "roadmap1": "MVP — bla, profiler, kjøpsforespørsler",
+    "roadmap1": "MVP - bla, profiler, kjøpsforespørsler",
     "roadmap2": "Stripe-kasse og selgerdashbord",
     "roadmap3": "Live auksjoner med autobud",
     "roadmap4": "Mobilapp og nye vertikaler",
@@ -161,7 +161,7 @@
     "about": "Om oss",
     "manifesto": "Manifest",
     "rights": "Alle rettigheter reservert.",
-    "mvpNote": "MVP-forhåndsvisning — noen funksjoner er simulert for demonstrasjon."
+    "mvpNote": "MVP-forhåndsvisning - noen funksjoner er simulert for demonstrasjon."
   },
   "common": {
     "learnMore": "Les mer",
