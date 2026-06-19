@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "title": "Artlyo — 来自拉脱维亚的艺术市场",
+    "description": "发现并收藏来自世界各地创作者的原创艺术。诞生于拉脱维亚，向所有人开放。"
+  },
+  "nav": {
+    "explore": "探索",
+    "auctions": "拍卖",
+    "sell": "出售",
+    "about": "关于我们",
+    "manifesto": "宣言",
+    "signIn": "登录",
+    "getStarted": "开始"
+  },
+  "hero": {
+    "badge": "诞生于拉脱维亚 · 艺术面向世界",
+    "title": "艺术家与收藏者相遇之地",
+    "subtitle": "Artlyo 是为画家、雕塑家、摄影师和数字创作者精心策划的市场。发现原创作品，与艺术家建立联系，将艺术带入您的生活空间。",
+    "exploreCta": "探索作品",
+    "sellCta": "开始出售"
+  },
+  "home": {
+    "featuredTitle": "精选作品",
+    "featuredSubtitle": "来自创始艺术家的精心挑选之作",
+    "viewAll": "查看全部",
+    "artistsTitle": "认识艺术家",
+    "artistsSubtitle": "来自世界各地的创作者",
+    "howTitle": "Artlyo 如何运作",
+    "howSubtitle": "简单、透明、以艺术家为先",
+    "step1Title": "发现",
+    "step1Desc": "按类别、风格和价格浏览原创作品。所有价格均以欧元标示。",
+    "step2Title": "咨询",
+    "step2Desc": "直接向艺术家发送购买咨询。浏览无隐藏费用。",
+    "step3Title": "收藏",
+    "step3Desc": "与艺术家协商付款和交付。安全结账即将推出。",
+    "ctaTitle": "加入创始艺术家",
+    "ctaSubtitle": "我们邀请前50位创作者免费发布作品。从第一天起成为 Artlyo 的一部分。",
+    "ctaButton": "申请出售",
+    "manifestoTitle": "我们的宣言",
+    "manifestoExcerpt": "我们的造物主是最伟大的艺术家，我们的身体和灵魂是物质世界中最精美的艺术作品。我们只需摆脱社会强加的偏见，开始绽放并创造我们最好的生活——因为美化自己，就是美化这个世界。",
+    "manifestoTagline": "创造。激励。改变世界。",
+    "manifestoCta": "阅读完整宣言"
+  },
+  "explore": {
+    "title": "探索作品",
+    "subtitle": "{count} 件作品可供选购",
+    "searchPlaceholder": "按标题搜索…",
+    "allCategories": "所有类别",
+    "noResults": "没有符合筛选条件的作品。",
+    "clearFilters": "清除筛选"
+  },
+  "categories": {
+    "painting": "绘画",
+    "sculpture": "雕塑",
+    "digital": "数字艺术",
+    "photography": "摄影",
+    "mixed-media": "混合媒介"
+  },
+  "artwork": {
+    "by": "作者",
+    "medium": "媒介",
+    "dimensions": "尺寸",
+    "year": "年份",
+    "category": "类别",
+    "status": "状态",
+    "available": "可购买",
+    "sold": "已售",
+    "reserved": "已预订",
+    "inquire": "发送购买咨询",
+    "viewArtist": "查看艺术家资料",
+    "relatedTitle": "该艺术家的更多作品"
+  },
+  "inquiry": {
+    "title": "购买咨询",
+    "subtitle": "您的消息将直接发送给艺术家。他们将在2–3个工作日内回复。",
+    "name": "您的姓名",
+    "email": "电子邮箱",
+    "message": "留言",
+    "messagePlaceholder": "我对这件作品感兴趣。能否告知运至…的相关信息？",
+    "submit": "发送咨询",
+    "sending": "发送中…",
+    "successTitle": "咨询已发送！",
+    "successDesc": "谢谢。艺术家将通过您提供的邮箱与您联系。",
+    "backToArtwork": "返回作品",
+    "error": "出了点问题，请重试。"
+  },
+  "artist": {
+    "works": "作品",
+    "worksCount": "{count} 件作品",
+    "verified": "认证艺术家",
+    "location": "所在地"
+  },
+  "auctions": {
+    "title": "实时拍卖",
+    "subtitle": "竞拍独家作品 — 完整拍卖引擎即将推出",
+    "demoBadge": "预览",
+    "currentBid": "当前出价",
+    "bids": "{count} 次出价",
+    "endsIn": "结束于",
+    "reserveMet": "已达保留价",
+    "reserveNotMet": "未达保留价",
+    "placeBid": "出价",
+    "comingSoon": "实时竞拍将在第二阶段推出。发送任意作品的咨询即可加入。",
+    "days": "天",
+    "hours": "时",
+    "minutes": "分"
+  },
+  "sell": {
+    "title": "在 Artlyo 出售您的艺术",
+    "subtitle": "触达世界各地的收藏者。几分钟内发布您的作品。",
+    "benefit1Title": "艺术家优先",
+    "benefit1Desc": "您的资料，您的故事。仅在售出时收取10%佣金。",
+    "benefit2Title": "诞生于拉脱维亚",
+    "benefit2Desc": "诞生于拉脱维亚，向全球艺术家和收藏者开放。",
+    "benefit3Title": "简单工具",
+    "benefit3Desc": "上传作品，以欧元定价，直接接收咨询。",
+    "benefit4Title": "成长中的平台",
+    "benefit4Desc": "拍卖、数据分析和 Stripe 结账已在路线图中。",
+    "formTitle": "申请成为创始艺术家",
+    "name": "全名",
+    "email": "电子邮箱",
+    "portfolio": "作品集或 Instagram 链接",
+    "about": "介绍您的创作",
+    "submit": "提交申请",
+    "successTitle": "申请已收到！",
+    "successDesc": "我们将在5个工作日内审核您的申请并回复。"
+  },
+  "about": {
+    "title": "关于 Artlyo",
+    "missionTitle": "我们的使命",
+    "missionDesc": "Artlyo 帮助独立艺术家和文化创作者触达全球受众。诞生于拉脱维亚里加，我们相信每位艺术家都值得一个专属的家园——而不是淹没在通用市场中。",
+    "visionTitle": "愿景",
+    "visionDesc": "我们打造的不仅仅是一个商店。Artlyo 将提供拍卖、艺术家数据分析、多语言支持以及向其他创意领域的扩展——全部集于一个平台。",
+    "latviaTitle": "根植于拉脱维亚",
+    "latviaDesc": "拉脱维亚拥有丰富的视觉艺术、设计和手工艺传统。Artlyo 从这里起步，以欧元定价，支持英语、拉脱维亚语、俄语、德语、挪威语、西班牙语和中文。",
+    "roadmapTitle": "路线图",
+    "roadmap1": "MVP 发布 — 浏览、个人资料、购买咨询",
+    "roadmap2": "Stripe 结账与卖家面板",
+    "roadmap3": "带自动出价的实时拍卖",
+    "roadmap4": "移动应用与新领域",
+    "contactTitle": "联系我们",
+    "contactDesc": "合作、媒体或投资咨询：hello@artlyo.com"
+  },
+  "manifesto": {
+    "title": "我们的宣言",
+    "p1": "最伟大的艺术家是我们的造物主，人类的身体和灵魂是物质世界中最美丽的艺术作品之一。",
+    "p2": "每个人生来就拥有独特的天赋、创造力和创造非凡之物的潜力。然而，社会、期望和限制性信念常常教会我们压抑真实的自我，而不是表达它。",
+    "p3": "我们相信艺术不仅限于绘画、雕塑、音乐或文学。生命本身就是一件艺术品。我们思考、创造、爱、成长和表达自我的方式塑造着周围的世界。",
+    "p4": "我们的使命是激励人们摆脱强加的偏见，拥抱真实的自我，创造最好的人生版本。当我们滋养心灵、身体与灵魂时，我们便成为活着的杰作。",
+    "p5": "美化自己，就是美化世界。大胆创造，激励他人同样去做。每一次创造行为，无论多么微小，都有能力让人类更丰富、更善良、更有活力。",
+    "p6": "这不仅仅是一个市场。这是一场庆祝创造力、个性与艺术变革力量的运动。",
+    "tagline": "创造。激励。改变世界。",
+    "exploreCta": "探索作品",
+    "sellCta": "加入成为艺术家"
+  },
+  "footer": {
+    "tagline": "诞生于拉脱维亚的艺术市场。",
+    "explore": "探索",
+    "artists": "艺术家",
+    "sell": "出售",
+    "about": "关于我们",
+    "manifesto": "宣言",
+    "rights": "版权所有。",
+    "mvpNote": "MVP 预览 — 部分功能为演示模拟。"
+  },
+  "common": {
+    "learnMore": "了解更多",
+    "from": "起"
+  }
+}

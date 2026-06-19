@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "title": "Artlyo — Mercado de arte desde Letonia",
+    "description": "Descubre y colecciona arte original de creadores de todo el mundo. Nacido en Letonia, abierto a todos."
+  },
+  "nav": {
+    "explore": "Explorar",
+    "auctions": "Subastas",
+    "sell": "Vender",
+    "about": "Acerca de",
+    "manifesto": "Manifiesto",
+    "signIn": "Iniciar sesión",
+    "getStarted": "Comenzar"
+  },
+  "hero": {
+    "badge": "Nacido en Letonia · Arte para el mundo",
+    "title": "Donde los artistas encuentran a los coleccionistas",
+    "subtitle": "Artlyo es un mercado curado para pintores, escultores, fotógrafos y creadores digitales. Descubre obras originales, conecta con artistas y lleva el arte a tu espacio.",
+    "exploreCta": "Explorar obras",
+    "sellCta": "Empezar a vender"
+  },
+  "home": {
+    "featuredTitle": "Obras destacadas",
+    "featuredSubtitle": "Piezas seleccionadas de nuestros artistas fundadores",
+    "viewAll": "Ver todo",
+    "artistsTitle": "Conoce a los artistas",
+    "artistsSubtitle": "Creadores de todo el mundo",
+    "howTitle": "Cómo funciona Artlyo",
+    "howSubtitle": "Simple, transparente y centrado en el artista",
+    "step1Title": "Descubre",
+    "step1Desc": "Explora obras originales por categoría, estilo y precio. Todos los precios en EUR.",
+    "step2Title": "Consulta",
+    "step2Desc": "Envía una consulta de compra directamente al artista. Sin comisiones ocultas al navegar.",
+    "step3Title": "Colecciona",
+    "step3Desc": "Acuerda el pago y la entrega con el artista. Pago seguro próximamente.",
+    "ctaTitle": "Únete como artista fundador",
+    "ctaSubtitle": "Invitamos a los primeros 50 creadores a publicar gratis. Sé parte de Artlyo desde el primer día.",
+    "ctaButton": "Solicitar vender",
+    "manifestoTitle": "Nuestro manifiesto",
+    "manifestoExcerpt": "Nuestro Creador es el mayor artista, y nuestro cuerpo y alma son la mejor obra de arte en el mundo físico. Solo necesitamos liberarnos de los prejuicios impuestos por la sociedad y comenzar a florecer y crear nuestra mejor vida — porque al embellecernos, embellecemos este mundo.",
+    "manifestoTagline": "Crea. Inspira. Transforma el mundo.",
+    "manifestoCta": "Leer manifiesto completo"
+  },
+  "explore": {
+    "title": "Explorar obras",
+    "subtitle": "{count} obras disponibles",
+    "searchPlaceholder": "Buscar por título…",
+    "allCategories": "Todas las categorías",
+    "noResults": "Ninguna obra coincide con tus filtros.",
+    "clearFilters": "Borrar filtros"
+  },
+  "categories": {
+    "painting": "Pintura",
+    "sculpture": "Escultura",
+    "digital": "Arte digital",
+    "photography": "Fotografía",
+    "mixed-media": "Técnica mixta"
+  },
+  "artwork": {
+    "by": "por",
+    "medium": "Técnica",
+    "dimensions": "Dimensiones",
+    "year": "Año",
+    "category": "Categoría",
+    "status": "Estado",
+    "available": "Disponible",
+    "sold": "Vendido",
+    "reserved": "Reservado",
+    "inquire": "Enviar consulta de compra",
+    "viewArtist": "Ver perfil del artista",
+    "relatedTitle": "Más de este artista"
+  },
+  "inquiry": {
+    "title": "Consulta de compra",
+    "subtitle": "Tu mensaje va directamente al artista. Responderá en 2–3 días hábiles.",
+    "name": "Tu nombre",
+    "email": "Correo electrónico",
+    "message": "Mensaje",
+    "messagePlaceholder": "Me interesa esta obra. ¿Podrías informarme sobre el envío a…",
+    "submit": "Enviar consulta",
+    "sending": "Enviando…",
+    "successTitle": "¡Consulta enviada!",
+    "successDesc": "Gracias. El artista te contactará en el correo que proporcionaste.",
+    "backToArtwork": "Volver a la obra",
+    "error": "Algo salió mal. Por favor, inténtalo de nuevo."
+  },
+  "artist": {
+    "works": "Obras",
+    "worksCount": "{count} obras",
+    "verified": "Artista verificado",
+    "location": "Ubicado en"
+  },
+  "auctions": {
+    "title": "Subastas en vivo",
+    "subtitle": "Puja por piezas exclusivas — motor de subastas completo próximamente",
+    "demoBadge": "Vista previa",
+    "currentBid": "Puja actual",
+    "bids": "{count} pujas",
+    "endsIn": "Termina en",
+    "reserveMet": "Reserva alcanzada",
+    "reserveNotMet": "Reserva no alcanzada",
+    "placeBid": "Pujar",
+    "comingSoon": "Las pujas en vivo llegan en la Fase 2. Únete enviando una consulta sobre cualquier obra.",
+    "days": "d",
+    "hours": "h",
+    "minutes": "m"
+  },
+  "sell": {
+    "title": "Vende tu arte en Artlyo",
+    "subtitle": "Llega a coleccionistas de todo el mundo. Publica tu obra en minutos.",
+    "benefit1Title": "El artista primero",
+    "benefit1Desc": "Tu perfil, tu historia. Cobramos 10% solo cuando vendes.",
+    "benefit2Title": "Nacido en Letonia",
+    "benefit2Desc": "Nacido en Letonia, abierto a artistas y coleccionistas de todo el mundo.",
+    "benefit3Title": "Herramientas simples",
+    "benefit3Desc": "Sube obras, fija precios en EUR, recibe consultas directamente.",
+    "benefit4Title": "Plataforma en crecimiento",
+    "benefit4Desc": "Subastas, analíticas y pago con Stripe en el roadmap.",
+    "formTitle": "Solicitud como artista fundador",
+    "name": "Nombre completo",
+    "email": "Correo electrónico",
+    "portfolio": "Portafolio o URL de Instagram",
+    "about": "Cuéntanos sobre tu trabajo",
+    "submit": "Enviar solicitud",
+    "successTitle": "¡Solicitud recibida!",
+    "successDesc": "Revisaremos tu solicitud y responderemos en 5 días hábiles."
+  },
+  "about": {
+    "title": "Acerca de Artlyo",
+    "missionTitle": "Nuestra misión",
+    "missionDesc": "Artlyo ayuda a artistas independientes y creadores culturales a llegar a una audiencia global. Nacido en Riga, Letonia, creemos que cada artista merece un hogar dedicado — no estar enterrado en mercados genéricos.",
+    "visionTitle": "La visión",
+    "visionDesc": "Estamos construyendo más que una tienda. Artlyo ofrecerá subastas, analíticas para artistas, soporte multilingüe y expansión a nuevas verticales creativas — todo en una plataforma.",
+    "latviaTitle": "Raíces en Letonia",
+    "latviaDesc": "Letonia tiene una rica tradición de arte visual, diseño y artesanía. Artlyo comienza aquí, con precios en EUR y soporte en inglés, letón, ruso, alemán, noruego, español y chino.",
+    "roadmapTitle": "Hoja de ruta",
+    "roadmap1": "Lanzamiento MVP — explorar, perfiles, consultas de compra",
+    "roadmap2": "Pago con Stripe y panel del vendedor",
+    "roadmap3": "Subastas en vivo con puja automática",
+    "roadmap4": "App móvil y nuevas verticales",
+    "contactTitle": "Contacto",
+    "contactDesc": "Alianzas, prensa o inversores: hello@artlyo.com"
+  },
+  "manifesto": {
+    "title": "Nuestro manifiesto",
+    "p1": "El mayor artista es nuestro Creador, y el cuerpo y el alma humanos están entre las obras de arte más bellas del mundo físico.",
+    "p2": "Cada persona nace con dones únicos, creatividad y el potencial de traer algo extraordinario a la existencia. Sin embargo, con demasiada frecuencia, la sociedad, las expectativas y las creencias limitantes nos enseñan a suprimir nuestra verdadera naturaleza en lugar de expresarla.",
+    "p3": "Creemos que el arte no se limita a pinturas, esculturas, música o literatura. La vida misma es una obra de arte. La forma en que pensamos, creamos, amamos, crecemos y nos expresamos da forma al mundo que nos rodea.",
+    "p4": "Nuestra misión es inspirar a las personas a liberarse de los prejuicios impuestos, abrazar su yo auténtico y crear la mejor versión de sus vidas. Cuando nutrimos nuestra mente, cuerpo y alma, nos convertimos en obras maestras vivas.",
+    "p5": "Al embellecernos, embellecemos el mundo. Al crear con audacia, inspiramos a otros a hacer lo mismo. Cada acto de creatividad, por pequeño que sea, tiene el poder de hacer a la humanidad más rica, amable y vibrante.",
+    "p6": "Esto es más que un mercado. Es un movimiento que celebra la creatividad, la individualidad y el poder transformador del arte.",
+    "tagline": "Crea. Inspira. Transforma el mundo.",
+    "exploreCta": "Explorar obras",
+    "sellCta": "Unirse como artista"
+  },
+  "footer": {
+    "tagline": "Mercado de arte nacido en Letonia.",
+    "explore": "Explorar",
+    "artists": "Artistas",
+    "sell": "Vender",
+    "about": "Acerca de",
+    "manifesto": "Manifiesto",
+    "rights": "Todos los derechos reservados.",
+    "mvpNote": "Vista previa MVP — algunas funciones están simuladas para demostración."
+  },
+  "common": {
+    "learnMore": "Saber más",
+    "from": "desde"
+  }
+}
