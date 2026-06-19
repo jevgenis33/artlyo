@@ -35,7 +35,11 @@
     "step3Desc": "Arrange payment and delivery with the artist. Secure checkout coming soon.",
     "ctaTitle": "Join as a founding artist",
     "ctaSubtitle": "We're inviting the first 50 creators to list for free. Be part of Artlyo from day one.",
-    "ctaButton": "Apply to sell"
+    "ctaButton": "Apply to sell",
+    "manifestoTitle": "Our Manifesto",
+    "manifestoExcerpt": "Our Creator is the greatest artist, and our body and soul are the finest work of art in the physical world. We need only free ourselves from the prejudices imposed on us by society and begin to bloom and create our best lives — for by beautifying ourselves, we beautify this world.",
+    "manifestoTagline": "Create. Inspire. Transform the world.",
+    "manifestoCta": "Read full manifesto"
   },
   "explore": {
     "title": "Explore artworks",

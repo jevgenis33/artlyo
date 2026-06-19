@@ -73,6 +73,26 @@ export default async function HomePage({ params }: Props) {
         </Link>
       </section>
 
+      <section className="bg-amber-50 py-16 sm:py-20">
+        <div className="mx-auto max-w-3xl px-4 text-center sm:px-6 lg:px-8">
+          <h2 className="font-serif text-3xl text-stone-900 sm:text-4xl">
+            {th("manifestoTitle")}
+          </h2>
+          <p className="mt-8 text-lg leading-relaxed text-stone-700">
+            {th("manifestoExcerpt")}
+          </p>
+          <p className="mt-8 font-serif text-xl text-amber-900 sm:text-2xl">
+            {th("manifestoTagline")}
+          </p>
+          <Link
+            href="/manifesto"
+            className="mt-8 inline-block text-sm font-medium text-stone-600 underline-offset-4 hover:text-amber-900 hover:underline"
+          >
+            {th("manifestoCta")} →
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-white py-16">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <h2 className="text-center font-serif text-3xl text-stone-900">

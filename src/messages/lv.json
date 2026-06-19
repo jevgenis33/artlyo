@@ -35,7 +35,11 @@
     "step3Desc": "Saskaņojiet maksājumu un piegādi ar mākslinieku. Drošā apmaksa drīzumā.",
     "ctaTitle": "Pievienojieties kā dibinātāja mākslinieks",
     "ctaSubtitle": "Aicinām pirmos 50 radītājus publicēt bez maksas. Esiet daļa no Artlyo no pirmās dienas.",
-    "ctaButton": "Pieteikties pārdošanai"
+    "ctaButton": "Pieteikties pārdošanai",
+    "manifestoTitle": "Mūsu manifests",
+    "manifestoExcerpt": "Mūsu Radītājs ir lielākais mākslinieks, un mūsu ķermenis un dvēsele ir izcilākais mākslas darbs fiziskajā pasaulē. Mums jāatbrīvojas tikai no sabiedrības uzspiestajiem aizspriedumiem un jāsāk ziedēt un radīt savu labāko dzīvi — jo, skaistinot sevi, mēs skaistinām šo pasauli.",
+    "manifestoTagline": "Radi. Iedvesmo. Pārveido pasauli.",
+    "manifestoCta": "Lasīt pilnu manifestu"
   },
   "explore": {
     "title": "Izpētīt darbus",
