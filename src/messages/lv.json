@@ -90,6 +90,14 @@
     "verified": "Verificēts mākslinieks",
     "location": "Bāzēts"
   },
+  "artistBios": {
+    "mara-kalnina": "Mūsdienu gleznotāja, kas pēta gaismu, atmiņu un piekrastes pilsētu kluso ģeometriju. Galvenokārt strādā ar eļļu un jauktajām tehnikām uz līna.",
+    "sergejs-karpenko": "Skulptors no Daugavpils, kurš strādā ar atkārtoti izmantotu koku un bronzu. Viņa darbi savieno tautas amatniecības tradīcijas ar minimālistiskām mūsdienu formām.",
+    "inese-berzina": "Digitālā māksliniece un ilustratore, kas rada gaismas pilnas stāstījumu formas, iedvesmotu no latviešu folkloras un spekulatīvām nākotnēm.",
+    "lars-eriksen": "Mākslas fotogrāfs, kurš dokumentē ziemeļu ainavas un pilsētu vientulību. Ierobežota izlaiduma arhīva cipartes.",
+    "anna-muller": "Jaukto mediju māksliniece, kas apvieno tekstilu, pigmentu un atrastos objektus. Viņas darbi pēta migrāciju, identitāti un piederību.",
+    "sofia-volkova": "Gleznotāja un digitālā radītāja no Rīgas. Pēta emociju kartogrāfiju caur krāsu laukiem un figūrāliem fragmentiem."
+  },
   "auctions": {
     "title": "Aktīvās izsoles",
     "subtitle": "Soliet ekskluzīvus darbus - pilna izsoļu sistēma drīzumā",

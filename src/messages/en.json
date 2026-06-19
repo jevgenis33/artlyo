@@ -90,6 +90,14 @@
     "verified": "Verified artist",
     "location": "Based in"
   },
+  "artistBios": {
+    "mara-kalnina": "Contemporary painter exploring light, memory, and the quiet geometry of coastal towns. Works primarily in oil and mixed media on linen.",
+    "sergejs-karpenko": "Sculptor from Daugavpils working with reclaimed wood and bronze. His pieces bridge folk craft traditions with minimalist contemporary forms.",
+    "inese-berzina": "Digital artist and illustrator creating luminous narratives inspired by Latvian folklore and speculative futures.",
+    "lars-eriksen": "Fine art photographer documenting Nordic landscapes and urban solitude. Limited edition archival prints.",
+    "anna-muller": "Mixed-media artist combining textile, pigment, and found objects. Her work examines migration, identity, and belonging.",
+    "sofia-volkova": "Painter and digital creator based in Riga. Explores emotional cartography through color fields and figurative fragments."
+  },
   "auctions": {
     "title": "Live auctions",
     "subtitle": "Bid on exclusive pieces - full auction engine launching soon",

@@ -90,6 +90,14 @@
     "verified": "Verifisert kunstner",
     "location": "Basert i"
   },
+  "artistBios": {
+    "mara-kalnina": "Samtidsmaler som utforsker lys, minne og den stille geometrien i kystbyer. Arbeider hovedsakelig med olje og blandet teknikk på lin.",
+    "sergejs-karpenko": "Skulptør fra Daugavpils som arbeider med gjenbrukt tre og bronse. Verkene hans bygger bro mellom folkelige håndverkstradisjoner og minimalistiske samtidsformer.",
+    "inese-berzina": "Digital kunstner og illustratør som skaper lysende fortellinger inspirert av latvisk folklore og spekulative fremtider.",
+    "lars-eriksen": "Kunstfotograf som dokumenterer nordiske landskap og urban ensomhet. Begrensede arkivtrykk.",
+    "anna-muller": "Blandet mediekunstner som kombinerer tekstil, pigment og funnobjekter. Arbeidet hennes utforsker migrasjon, identitet og tilhørighet.",
+    "sofia-volkova": "Maler og digital skaper basert i Riga. Utforsker emosjonell kartografi gjennom fargefelt og figurative fragmenter."
+  },
   "auctions": {
     "title": "Live auksjoner",
     "subtitle": "By på eksklusive verk - full auksjonsmotor kommer snart",

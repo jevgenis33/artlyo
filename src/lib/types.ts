@@ -11,7 +11,6 @@ export interface Artist {
   name: string;
   location: string;
   country: string;
-  bio: string;
   avatarUrl: string;
   bannerUrl: string;
   website?: string;

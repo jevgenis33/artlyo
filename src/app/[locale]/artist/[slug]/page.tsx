@@ -22,6 +22,7 @@ export default async function ArtistPage({ params }: Props) {
 
   const works = getArtworksByArtist(artist.id);
   const t = await getTranslations("artist");
+  const tBio = await getTranslations("artistBios");
 
   return (
     <div>
@@ -60,7 +61,7 @@ export default async function ArtistPage({ params }: Props) {
               {t("verified")}
             </Badge>
           )}
-          <p className="mt-6 max-w-2xl text-stone-600">{artist.bio}</p>
+          <p className="mt-6 max-w-2xl text-stone-600">{tBio(slug)}</p>
         </div>
 
         <section className="mt-16 pb-16">
