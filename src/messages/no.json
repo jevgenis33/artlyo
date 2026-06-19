@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Artlyo — Kunstmarkedsplass fra Latvia",
-    "description": "Oppdag og samle original kunst fra baltiske og europeiske skapere. Født i Latvia, åpen for verden."
+    "description": "Oppdag og samle original kunst fra skapere over hele verden. Født i Latvia, åpen for alle."
   },
   "nav": {
     "explore": "Utforsk",
@@ -13,7 +13,7 @@
     "getStarted": "Kom i gang"
   },
   "hero": {
-    "badge": "Født i Latvia · Kunst fra Baltikum",
+    "badge": "Født i Latvia · Kunst for verden",
     "title": "Der kunstnere møter samlere",
     "subtitle": "Artlyo er en kuratert markedsplass for malere, skulptører, fotografer og digitale skapere. Oppdag originalverk og ta kontakt med kunstnere.",
     "exploreCta": "Utforsk kunstverk",
@@ -24,7 +24,7 @@
     "featuredSubtitle": "Håndplukkede stykker fra våre grunnleggerkunstnere",
     "viewAll": "Se alle",
     "artistsTitle": "Møt kunstnerne",
-    "artistsSubtitle": "Skapere fra Latvia og hele Europa",
+    "artistsSubtitle": "Skapere fra hele verden",
     "howTitle": "Slik fungerer Artlyo",
     "howSubtitle": "Enkelt, transparent, kunstnerfokusert",
     "step1Title": "Oppdag",
@@ -107,11 +107,11 @@
   },
   "sell": {
     "title": "Selg kunsten din på Artlyo",
-    "subtitle": "Nå samlere over hele Europa. List verkene dine på minutter.",
+    "subtitle": "Nå samlere over hele verden. List verkene dine på minutter.",
     "benefit1Title": "Kunstner først",
     "benefit1Desc": "Din profil, din historie. 10% provisjon kun ved salg.",
     "benefit2Title": "Født i Latvia",
-    "benefit2Desc": "Bygget for baltiske skapere, åpent for kunstnere verden over.",
+    "benefit2Desc": "Født i Latvia, åpent for kunstnere og samlere over hele verden.",
     "benefit3Title": "Enkle verktøy",
     "benefit3Desc": "Last opp verk, sett priser i EUR, motta forespørsler.",
     "benefit4Title": "Voksende plattform",
@@ -128,7 +128,7 @@
   "about": {
     "title": "Om Artlyo",
     "missionTitle": "Vårt oppdrag",
-    "missionDesc": "Artlyo hjelper uavhengige kunstnere å nå et globalt publikum. Født i Riga — baltisk kunst fortjener et eget hjem.",
+    "missionDesc": "Artlyo hjelper uavhengige kunstnere å nå et globalt publikum. Født i Riga — hver kunstner fortjener et eget hjem.",
     "visionTitle": "Visjonen",
     "visionDesc": "Vi bygger mer enn en butikk: auksjoner, analyse, flerspråklig støtte og nye vertikaler på én plattform.",
     "latviaTitle": "Forankret i Latvia",

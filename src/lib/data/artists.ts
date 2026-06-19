@@ -7,7 +7,7 @@ export const artists: Artist[] = [
     name: "Māra Kalniņa",
     location: "Riga",
     country: "Latvia",
-    bio: "Contemporary painter exploring Baltic light, memory, and the quiet geometry of coastal towns. Works primarily in oil and mixed media on linen.",
+    bio: "Contemporary painter exploring light, memory, and the quiet geometry of coastal towns. Works primarily in oil and mixed media on linen.",
     avatarUrl:
       "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&h=200&fit=crop",
     bannerUrl:

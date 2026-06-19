@@ -7,7 +7,7 @@ export const artworks: Artwork[] = [
     artistId: "1",
     title: "Amber Dusk",
     description:
-      "A meditation on Baltic evenings — layered oils capture the last warmth of sun over the Daugava. Subtle impasto and soft edges evoke stillness.",
+      "A meditation on quiet evenings — layered oils capture the last warmth of sun over the river. Subtle impasto and soft edges evoke stillness.",
     price: 1200,
     category: "painting",
     medium: "Oil on linen",
@@ -228,7 +228,7 @@ export const artworks: Artwork[] = [
     artistId: "2",
     title: "Bronze Echo",
     description:
-      "Small-scale bronze cast with patina finish. An intimate piece for collectors of contemporary Baltic sculpture.",
+      "Small-scale bronze cast with patina finish. An intimate piece for collectors of contemporary sculpture.",
     price: 2200,
     category: "sculpture",
     medium: "Bronze",
@@ -241,11 +241,11 @@ export const artworks: Artwork[] = [
   },
   {
     id: "15",
-    slug: "baltic-horizon",
+    slug: "coastal-horizon",
     artistId: "4",
-    title: "Baltic Horizon",
+    title: "Coastal Horizon",
     description:
-      "Seascape at dawn near Jūrmala. Soft gradients and minimal composition.",
+      "Seascape at dawn. Soft gradients and minimal composition.",
     price: 590,
     category: "photography",
     medium: "Archival pigment print",

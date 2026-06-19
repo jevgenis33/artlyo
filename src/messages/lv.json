@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Artlyo — Mākslas tirgus no Latvijas",
-    "description": "Atklājiet un kolekcionējiet oriģinālus mākslas darbus no Baltijas un Eiropas radītājiem. Radīts Latvijā, atvērts pasaulei."
+    "description": "Atklājiet un kolekcionējiet oriģinālus mākslas darbus no radītājiem visā pasaulē. Radīts Latvijā, atvērts visiem."
   },
   "nav": {
     "explore": "Izpētīt",
@@ -13,7 +13,7 @@
     "getStarted": "Sākt"
   },
   "hero": {
-    "badge": "Radīts Latvijā · Māksla no Baltijas",
+    "badge": "Radīts Latvijā · Māksla pasaulei",
     "title": "Kur mākslinieki satiek kolekcionārus",
     "subtitle": "Artlyo ir kurēts tirgus gleznotājiem, skulptoriem, fotogrāfiem un digitālajiem radītājiem. Atklājiet oriģinālus darbus un sazinieties ar māksliniekiem.",
     "exploreCta": "Izpētīt darbus",
@@ -24,7 +24,7 @@
     "featuredSubtitle": "Rūpīgi atlasīti darbi no mūsu dibinātāju māksliniekiem",
     "viewAll": "Skatīt visus",
     "artistsTitle": "Iepazīstiet māksliniekus",
-    "artistsSubtitle": "Radītāji no Latvijas un visas Eiropas",
+    "artistsSubtitle": "Radītāji no visas pasaules",
     "howTitle": "Kā darbojas Artlyo",
     "howSubtitle": "Vienkārši, caurskatāmi, mākslinieku interesēs",
     "step1Title": "Atklājiet",
@@ -107,11 +107,11 @@
   },
   "sell": {
     "title": "Pārdodiet savu mākslu Artlyo",
-    "subtitle": "Sasniedziet kolekcionārus visā Eiropā. Publicējiet darbus dažu minūšu laikā.",
+    "subtitle": "Sasniedziet kolekcionārus visā pasaulē. Publicējiet darbus dažu minūšu laikā.",
     "benefit1Title": "Mākslinieku interesēs",
     "benefit1Desc": "Jūsu profils, jūsu stāsts. 10% komisija tikai pārdošanas brīdī.",
     "benefit2Title": "Radīts Latvijā",
-    "benefit2Desc": "Veidots Baltijas radītājiem, atvērts māksliniekiem visā pasaulē.",
+    "benefit2Desc": "Radīts Latvijā, atvērts māksliniekiem un kolekcionāriem visā pasaulē.",
     "benefit3Title": "Vienkārši rīki",
     "benefit3Desc": "Augšupielādējiet darbus, norādiet cenas EUR, saņemiet pieprasījumus.",
     "benefit4Title": "Augoša platforma",
@@ -128,7 +128,7 @@
   "about": {
     "title": "Par Artlyo",
     "missionTitle": "Mūsu misija",
-    "missionDesc": "Artlyo palīdz neatkarīgiem māksliniekiem sasniegt globālu auditoriju. Radīts Rīgā, Latvijā — Baltijas mākslai ir pelnīta sava mājvieta.",
+    "missionDesc": "Artlyo palīdz neatkarīgiem māksliniekiem sasniegt globālu auditoriju. Radīts Rīgā, Latvijā — katram māksliniekam ir pelnīta sava mājvieta.",
     "visionTitle": "Vīzija",
     "visionDesc": "Veidojam vairāk nekā veikalu: izsoles, analītika, daudzvalodu atbalsts un paplašināšanās jaunās nišās.",
     "latviaTitle": "Sakņojas Latvijā",

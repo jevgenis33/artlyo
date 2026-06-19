@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Artlyo — Art marketplace from Latvia",
-    "description": "Discover and collect original art from Baltic and European creators. Born in Latvia, open to the world."
+    "description": "Discover and collect original art from creators around the world. Born in Latvia, open to all."
   },
   "nav": {
     "explore": "Explore",
@@ -13,7 +13,7 @@
     "getStarted": "Get started"
   },
   "hero": {
-    "badge": "Born in Latvia · Art from the Baltics",
+    "badge": "Born in Latvia · Art for the world",
     "title": "Where artists meet collectors",
     "subtitle": "Artlyo is a curated marketplace for painters, sculptors, photographers, and digital creators. Discover original works, connect with artists, and bring art into your space.",
     "exploreCta": "Explore artworks",
@@ -24,7 +24,7 @@
     "featuredSubtitle": "Handpicked pieces from our founding artists",
     "viewAll": "View all",
     "artistsTitle": "Meet the artists",
-    "artistsSubtitle": "Creators from Latvia and across Europe",
+    "artistsSubtitle": "Creators from around the world",
     "howTitle": "How Artlyo works",
     "howSubtitle": "Simple, transparent, artist-first",
     "step1Title": "Discover",
@@ -107,11 +107,11 @@
   },
   "sell": {
     "title": "Sell your art on Artlyo",
-    "subtitle": "Reach collectors across Europe. List your work in minutes.",
+    "subtitle": "Reach collectors around the world. List your work in minutes.",
     "benefit1Title": "Artist-first",
     "benefit1Desc": "Your profile, your story. We take 10% only when you sell.",
     "benefit2Title": "Born in Latvia",
-    "benefit2Desc": "Built for Baltic creators, open to artists worldwide.",
+    "benefit2Desc": "Born in Latvia, open to artists and collectors worldwide.",
     "benefit3Title": "Simple tools",
     "benefit3Desc": "Upload works, set prices in EUR, receive inquiries directly.",
     "benefit4Title": "Growing platform",
@@ -128,7 +128,7 @@
   "about": {
     "title": "About Artlyo",
     "missionTitle": "Our mission",
-    "missionDesc": "Artlyo helps independent artists and cultural creators reach a global audience. Born in Riga, Latvia, we believe the Baltic art scene deserves a dedicated home — not buried in generic marketplaces.",
+    "missionDesc": "Artlyo helps independent artists and cultural creators reach a global audience. Born in Riga, Latvia, we believe every artist deserves a dedicated home — not buried in generic marketplaces.",
     "visionTitle": "The vision",
     "visionDesc": "We're building more than a shop. Artlyo will offer auctions, artist analytics, multi-language support, and expansion into adjacent creative verticals — all on one platform.",
     "latviaTitle": "Rooted in Latvia",

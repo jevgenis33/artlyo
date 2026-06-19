@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Artlyo — Kunstmarktplatz aus Lettland",
-    "description": "Entdecken und sammeln Sie Originalkunst von baltischen und europäischen Kreativen. Geboren in Lettland, offen für die Welt."
+    "description": "Entdecken und sammeln Sie Originalkunst von Kreativen aus aller Welt. Geboren in Lettland, offen für alle."
   },
   "nav": {
     "explore": "Entdecken",
@@ -13,7 +13,7 @@
     "getStarted": "Loslegen"
   },
   "hero": {
-    "badge": "Geboren in Lettland · Kunst aus dem Baltikum",
+    "badge": "Geboren in Lettland · Kunst für die Welt",
     "title": "Wo Künstler Sammler treffen",
     "subtitle": "Artlyo ist ein kuratierter Marktplatz für Maler, Bildhauer, Fotografen und digitale Kreative. Entdecken Sie Originalwerke und verbinden Sie sich mit Künstlern.",
     "exploreCta": "Kunstwerke entdecken",
@@ -24,7 +24,7 @@
     "featuredSubtitle": "Handverlesene Stücke unserer Gründungskünstler",
     "viewAll": "Alle ansehen",
     "artistsTitle": "Künstler kennenlernen",
-    "artistsSubtitle": "Kreative aus Lettland und ganz Europa",
+    "artistsSubtitle": "Kreative aus aller Welt",
     "howTitle": "So funktioniert Artlyo",
     "howSubtitle": "Einfach, transparent, künstlerorientiert",
     "step1Title": "Entdecken",
@@ -107,11 +107,11 @@
   },
   "sell": {
     "title": "Verkaufen Sie auf Artlyo",
-    "subtitle": "Erreichen Sie Sammler in ganz Europa. Listen Sie Ihre Werke in Minuten.",
+    "subtitle": "Erreichen Sie Sammler auf der ganzen Welt. Listen Sie Ihre Werke in Minuten.",
     "benefit1Title": "Künstler zuerst",
     "benefit1Desc": "Ihr Profil, Ihre Geschichte. 10% Provision nur bei Verkauf.",
     "benefit2Title": "Geboren in Lettland",
-    "benefit2Desc": "Für baltische Kreative, offen für Künstler weltweit.",
+    "benefit2Desc": "Geboren in Lettland, offen für Künstler und Sammler weltweit.",
     "benefit3Title": "Einfache Tools",
     "benefit3Desc": "Werke hochladen, Preise in EUR setzen, Anfragen erhalten.",
     "benefit4Title": "Wachsende Plattform",
@@ -128,7 +128,7 @@
   "about": {
     "title": "Über Artlyo",
     "missionTitle": "Unsere Mission",
-    "missionDesc": "Artlyo hilft unabhängigen Künstlern, ein globales Publikum zu erreichen. Geboren in Riga — die baltische Kunstszene verdient ein eigenes Zuhause.",
+    "missionDesc": "Artlyo hilft unabhängigen Künstlern, ein globales Publikum zu erreichen. Geboren in Riga — jeder Künstler verdient ein eigenes Zuhause.",
     "visionTitle": "Die Vision",
     "visionDesc": "Wir bauen mehr als einen Shop: Auktionen, Künstler-Analytik, Mehrsprachigkeit und neue Vertikalen auf einer Plattform.",
     "latviaTitle": "Verwurzelt in Lettland",
